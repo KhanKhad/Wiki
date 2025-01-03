@@ -40,14 +40,14 @@
         "protocol": "h2mux"
       },
       "packet_encoding": "xudp",
-      "server": "мой_ip_address1",
+      "server": "РјРѕР№_ip_address1",
       "server_port": 443,
       "tls": {
         "enabled": true,
         "reality": {
           "enabled": true,
-          "public_key": "мой_public_key1",
-          "short_id": "мой_short_id1"
+          "public_key": "РјРѕР№_public_key1",
+          "short_id": "РјРѕР№_short_id1"
         },
         "server_name": "www.microsoft.com",
         "utls": {
@@ -56,7 +56,7 @@
         }
       },
       "type": "vless",
-      "uuid": "мой_uuid1"
+      "uuid": "РјРѕР№_uuid1"
     },
     {
       "tag": "vpn2",
@@ -73,14 +73,14 @@
         "protocol": "h2mux"
       },
       "packet_encoding": "xudp",
-      "server": "мой_ip_address2",
+      "server": "РјРѕР№_ip_address2",
       "server_port": 443,
       "tls": {
         "enabled": true,
         "reality": {
           "enabled": true,
-          "public_key": "мой_public_key2",
-          "short_id": "мой_short_id2"
+          "public_key": "РјРѕР№_public_key2",
+          "short_id": "РјРѕР№_short_id2"
         },
         "server_name": "www.microsoft.com",
         "utls": {
@@ -89,7 +89,7 @@
         }
       },
       "type": "vless",
-      "uuid": "мой_uuid2"
+      "uuid": "РјРѕР№_uuid2"
     }
   ],
   "route": {

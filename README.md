@@ -29,8 +29,3 @@ reg.ru
 
 ## Не брать
 namesilo
-
-
-# Остальное
-
-https://singboxconverter.amphub.cloudns.be/ - Конвертер URL VLESS+Reality в Outbound sing-box

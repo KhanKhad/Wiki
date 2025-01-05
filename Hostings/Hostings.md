@@ -16,3 +16,5 @@ vdc
 hostslim
 мскхост
 aeza
+timeweb
+deluxhost

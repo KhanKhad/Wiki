@@ -3,7 +3,7 @@
 
 https://singboxconverter.amphub.cloudns.be/ - Конвертер URL VLESS+Reality в Outbound sing-box
 
-
+https://jsonlint.com/ - Json Validator
 
 # Установка
 https://habr.com/ru/articles/767458/ - Основной гайд по настройке sing box, 

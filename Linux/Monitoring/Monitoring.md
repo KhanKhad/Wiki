@@ -1,0 +1,2 @@
+﻿Отслеживание статуса сервера, просмотр статистики и отправка уведомлений в Telegram(если сервер упал или встал) с помощью Grafana, Prometheus и Node Exporter
+http://docs.google.com/document/d/13J3ojlHjtEfmNgNKTxxRNiTx1AugFXPN-c6Ap5XwGl8/edit?tab=t.0#heading=h.kd6ffmluf0ct. Есть копия в соседней папке

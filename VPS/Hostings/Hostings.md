@@ -1,6 +1,5 @@
 ﻿## Лучшие
 Veesp
-VpsVille
 HostingRussia
 Ztv
 Нексус

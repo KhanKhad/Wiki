@@ -1,0 +1,1 @@
+﻿Инструкция: https://openwrt.org/docs/guide-user/services/vpn/zerotier

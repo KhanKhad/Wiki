@@ -2,6 +2,17 @@
 https://scarce-hole-1e2.notion.site/3X-UI-pro-with-REALITY-panel-and-inbounds-on-port-443-10d1666462e48085be0fee4c136ce417
 Есть копия пдф в соседней папке. Так же есть копия скриптов
 
+Если проц QEMI Virtual:
+
+В начало /etc/nginx/stream-enabled/stream.conf
+нужно вставить строки 
+map_hash_max_size                    16384;
+map_hash_bucket_size                64;
+
+Везде написано, что эти строки нужно вставлять в блок http, но в нашем случае они должны быть в блоке stream
+У меня заработало.
+
+
 2. Не такой крутой как первый:
 https://scarce-hole-1e2.notion.site/X-UI-pro-script-1081666462e48069b35edf17d22894dc
 Есть копия пдф в соседней папке.

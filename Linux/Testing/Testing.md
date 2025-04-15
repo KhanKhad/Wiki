@@ -9,6 +9,9 @@ wget -qO- speedtest.artydev.ru | bash
 # Параметры сервера и проверка скорости к зарубежным провайдерам:
 wget -qO- bench.sh | bash
 
+# Проверка скорости проца
+sysbench --threads=1 cpu run
+
 # Проверка блокировки аудио в Instagram:
 bash <(curl -L -s https://bench.openode.xyz/checker_inst.sh)
 
@@ -16,7 +19,7 @@ bash <(curl -L -s https://bench.openode.xyz/checker_inst.sh)
 curl -s "https://raw.githubusercontent.com/vernette/ipregion/refs/heads/master/ipregion.sh" | bash
 
 # Проверка ip маршрутов
-bgp.tools
+bgp.tools, bgp.he.net
 
 # Проверка на ддос
 Проверяем атакуют ли нас через netstat -ant | grep SYN_RECV или ss -t state SYN-RECV|wc -l, если видим много подключений - атакуют

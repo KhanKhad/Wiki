@@ -5,6 +5,8 @@ https://singboxconverter.amphub.cloudns.be/ - Конвертер URL VLESS+Reali
 
 https://jsonlint.com/ - Json Validator
 
+https://sub.legiz.ru/ - создание singbox конфига из ссылки
+
 # Установка
 1. https://habr.com/ru/articles/767458/ - Основной гайд по настройке sing box, 
 устанавливал по нему несколько раз. Есть копия пдф в соседней папке
